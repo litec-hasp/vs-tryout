@@ -6,7 +6,7 @@ namespace vs_tryout
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello GIT!");
         }
     }
 }
